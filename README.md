@@ -43,6 +43,8 @@ Contributions to the Cheatsheet-Template are welcome! If you find any issues or 
 
 ## Acknowledgments
 
+- Inspiration and guidance have been taken from the web development community For making this Cheatsheet-Template website.
+
 
 
 
