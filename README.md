@@ -12,6 +12,7 @@ A customizable Cheatsheet-Template built with HTML, CSS, and JavaScript.
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [Acknowledgments](#Acknowledgments)
+- [Contact](#Contact)
 - [License](#license)
 
 ## Introduction
