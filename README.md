@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-* Click on the link to view the project :- https://byomkesh03.github.io/Cheatsheet-Template/
+* Click on the link to view the project:- https://byomkesh03.github.io/Cheatsheet-Template/
