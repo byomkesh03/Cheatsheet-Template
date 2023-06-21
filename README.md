@@ -26,7 +26,7 @@ The Cheatsheet-Template is designed to provide a simple and flexible starting po
 
 ## Demo
 
-You can see a live demo of the website [here](https://byomkesh03.github.io/Car-Animation/).
+You can see a live demo of the website [here](https://byomkesh03.github.io/Cheatsheet-Template/).
 
 
 ## Usage
