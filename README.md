@@ -1,7 +1,4 @@
 
-Cheat-Sheet Template using HTML, CSS &amp; JavaScript
-
-
 # Cheatsheet-Template
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
