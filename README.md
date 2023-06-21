@@ -8,6 +8,7 @@ A customizable Cheatsheet-Template built with HTML, CSS, and JavaScript.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Demo](#Demo)
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
