@@ -41,6 +41,9 @@ You can customize various aspects of the Cheatsheet-Template to match your prefe
 ## Contributing
 Contributions to the Cheatsheet-Template are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to adhere to the code style guidelines and provide clear descriptions of your changes.
 
+## Acknowledgments
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
