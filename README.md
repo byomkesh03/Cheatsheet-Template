@@ -17,7 +17,7 @@ A customizable Cheatsheet-Template built with HTML, CSS, and JavaScript.
 - [License](#license)
 
 ## Introduction
-The Cheatsheet-Template is designed to provide a simple and flexible starting point for creating your own cheatsheets. It is built using web technologies like HTML, CSS, and JavaScript, making it easy to customize and adapt to your specific needs.
+The Cheatsheet-Template is designed to provide a simple and flexible starting point for creating your own cheat sheets. It is built using web technologies like HTML, CSS, and JavaScript, making it easy to customize and adapt to your specific needs.
 
 ## Features
 - Responsive design: The template is mobile-friendly and adapts to different screen sizes.
